@@ -1,21 +1,24 @@
 # 📊 Finance Analytics Dashboard | Power BI
 
-An interactive **Finance Analytics Dashboard built with Microsoft Power BI** to analyze financial performance, track key metrics, and transform raw data into meaningful business insights.
+An interactive **Finance Analytics Dashboard built with Microsoft Power BI** to analyze financial performance, transaction activity, customer segments, and key financial metrics.
 
 ## 📌 Project Overview
 
-This project focuses on building an interactive financial analytics dashboard that presents important financial information through **KPIs, charts, trends, and interactive visualizations**.
+This project transforms financial transaction data into an interactive Power BI dashboard that provides both high-level financial insights and detailed transaction-level analysis.
 
-The dashboard is designed to make financial data easier to understand and support data-driven analysis.
+The dashboard allows users to explore financial performance through KPIs, trends, customer segments, transaction statuses, geographic analysis, transaction types, and detailed transaction records.
 
 ## 🎯 Objectives
 
 * Analyze overall financial performance
-* Track important financial KPIs
-* Identify trends and patterns
-* Present financial information through interactive visualizations
-* Build a clean and user-friendly Power BI dashboard
-* Transform raw data into meaningful insights
+* Track key financial KPIs
+* Understand transaction trends
+* Analyze customer segments
+* Compare transaction statuses
+* Analyze financial activity across states
+* Examine different transaction types
+* Provide detailed transaction-level information
+* Present financial data through an interactive dashboard
 
 ## 🛠️ Tools & Technologies
 
@@ -28,71 +31,102 @@ The dashboard is designed to make financial data easier to understand and suppor
 
 ## 📊 Dashboard Features
 
-* Interactive financial KPI cards
-* Financial performance analysis
-* Trend analysis
-* Data-driven visualizations
-* Interactive filtering
-* Financial metrics and comparisons
-* User-friendly dashboard layout
+### Finance Overview Analysis
+
+The overview page provides key financial metrics including:
+
+* Total Amount
+* Total Transactions
+* Average Transaction Value
+* Total Fees
+* Total Tax
+
+It also provides visual analysis of:
+
+* Monthly transaction amounts
+* Transaction status
+* Customer segments
+* State-wise financial activity
+* Transaction types
+* Gender-wise financial distribution
+
+### Transaction Analysis
+
+The transaction page provides detailed transaction-level information, including:
+
+* Transaction ID
+* Transaction Date
+* Customer Name
+* Transaction Type
+* Transaction Status
+* Gender
+* Customer Segment
+* State
+* Total Amount
+* Total Fees
+* Total Tax
 
 ## 🖼️ Dashboard Preview
 
-### Overview
+### 📊 Finance Overview Analysis
 
-![Finance Analytics Dashboard](screenshots/dashboard-overview.png)
+The overview dashboard provides an interactive view of financial performance through KPI cards and multiple analytical visualizations.
 
-### Financial Analysis
+![Finance Overview Analysis](screenshots/finance-overview.png)
 
-![Financial Analysis](screenshots/financial-analysis.png)
+### 📋 Transaction Analysis
 
-### Insights
+The transaction analysis page provides detailed information about individual financial transactions and their associated metrics.
 
-![Financial Insights](screenshots/insights.png)
+![Transaction Analysis](screenshots/transaction-analysis.png)
 
-## 🔍 Key Skills Demonstrated
+## 📈 Key Metrics
 
-Through this project, I worked on:
+The dashboard provides an overview of:
 
-* Data cleaning and transformation using Power Query
-* Creating calculated measures using DAX
-* Designing interactive Power BI reports
-* Selecting appropriate visualizations for financial data
-* Building KPI-focused dashboards
-* Presenting complex information in a simple and understandable format
+* **Total Amount:** ₹135.62M
+* **Total Transactions:** 15.03K
+* **Average Transaction Value:** ₹9.02K
+* **Total Fees:** ₹217.30K
+* **Total Tax:** ₹39.14K
 
-## 📁 Project Structure
+## 🔍 Skills Demonstrated
 
-```text
-finance-analytics-powerbi-dashboard/
-│
-├── README.md
-├── Finance Analytics Dashboard.pbix
-│
-├── screenshots/
-│   ├── dashboard-overview.png
-│   ├── financial-analysis.png
-│   └── insights.png
-│
-└── assets/
-```
+This project demonstrates practical experience in:
+
+* Data cleaning and transformation
+* Power Query
+* DAX calculations
+* KPI development
+* Interactive dashboard design
+* Data visualization
+* Financial data analysis
+* Business intelligence reporting
+
+## 📁 Project Files
+
+| File                               | Description                  |
+| ---------------------------------- | ---------------------------- |
+| `Finance Analytics Dashboard.pbix` | Power BI dashboard project   |
+| `Finance Analytics Dashboard.pdf`  | PDF preview of the dashboard |
+| `screenshots/`                     | Dashboard preview images     |
 
 ## 🚀 How to Use
 
 1. Download the `.pbix` file from this repository.
 2. Open it using **Microsoft Power BI Desktop**.
-3. Explore the interactive dashboard.
-4. Use the available filters and visualizations to analyze the data.
+3. Explore the dashboard pages.
+4. Use the available filters and interactive elements to analyze the data.
 
 ## 📌 Project Purpose
 
-This project was created as part of my **data analytics portfolio** to demonstrate practical experience with Power BI, data visualization, DAX, and business intelligence.
+This project was created as part of my **data analytics portfolio** to demonstrate practical skills in Power BI, DAX, data visualization, and financial data analysis.
 
 ## 👨‍💻 Author
 
 **Suraj Mali**
 
-GitHub: Suraj-49
+GitHub:https://github.com/Suraj-49
 
 ---
 
