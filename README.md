@@ -72,13 +72,13 @@ The transaction page provides detailed transaction-level information, including:
 
 The overview dashboard provides an interactive view of financial performance through KPI cards and multiple analytical visualizations.
 
-![Finance Overview Analysis](screenshots/finance-overview.png)
+![Finance Overview Analysis](Finance_Analytics_Dashboard_Page_1.png)
 
 ### 📋 Transaction Analysis
 
 The transaction analysis page provides detailed information about individual financial transactions and their associated metrics.
 
-![Transaction Analysis](screenshots/transaction-analysis.png)
+![Transaction Analysis](Finance_Analytics_Dashboard_Page_2.png)
 
 ## 📈 Key Metrics
 
