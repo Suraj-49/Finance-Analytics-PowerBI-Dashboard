@@ -105,12 +105,12 @@ This project demonstrates practical experience in:
 
 ## 📁 Project Files
 
-| File                               | Description                  |
-| ---------------------------------- | ---------------------------- |
-| `Finance Analytics Dashboard.pbix` | Power BI dashboard project   |
-| `Finance Analytics Dashboard.pdf`  | PDF preview of the dashboard |
-| `screenshots/`                     | Dashboard preview images     |
-
+| File | Description |
+|---|---|
+| `Finance Analytics Dashboard.pbix` | Power BI dashboard project |
+| `Finance Analytics Dashboard.pdf` | PDF preview of the dashboard |
+| `Finance_Analytics_Dashboard_Page_1.png` | Finance overview dashboard screenshot |
+| `Finance_Analytics_Dashboard_Page_2.png` | Transaction analysis screenshot |
 ## 🚀 How to Use
 
 1. Download the `.pbix` file from this repository.
